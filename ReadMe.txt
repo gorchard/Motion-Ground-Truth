@@ -1,16 +1,13 @@
-# Motion-Ground-Truth
-Matlab functions to calculate ground truth visual motion estimates taking into account lens calibration
-
 These functions show how to generate ground truth visual motion estimates taking into account camera calibration parameters.
 
 Camera calibration for DVS cameras is done using code from 
 http://www.garrickorchard.com/code
 
 which in turn relies heavily on the Caltech Camera Calibration Toolbox, available from 
-http://www.vision.caltech.edu/bouguetj/calib_doc/
+www.vision.caltech.edu/bouguetj/calib_doc/
 
 For a review of neuromorphic visual motion estimation, see
-Orchard, G.; and Etienne-Cummings, R. ‚ÄúBioinspired Visual Motion Estimation‚Äù Proceedings of the IEEE, vol.102, no.10, pp.1520‚Äì1536, Oct. 2014
+Orchard, G.; and Etienne-Cummings, R. ìBioinspired Visual Motion Estimationî Proceedings of the IEEE, vol.102, no.10, pp.1520ñ1536, Oct. 2014
 http://arxiv.org/abs/1511.00096
 
 
